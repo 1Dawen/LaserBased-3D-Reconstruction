@@ -57,10 +57,6 @@ For PowerShell, enter the `python reconstruct.py` invocation on one line rather 
 
 The demonstration produces artificial paired `.jpg` images, a calibration JSON file, an output `.xyz` file, and a small metadata summary. Its coordinates and scores are not results from the original laser-scanning experiment.
 
-![Synthetic demonstration](docs/synthetic_point_cloud_preview.png)
-
-*Synthetic demonstration; no physical object was scanned.*
-
 ## Process your own photos
 
 Organize equal-sized image pairs with matching filenames:
