@@ -1,0 +1,6 @@
+{
+  "description": "Archived notebook's manually selected calibration points; specific to the unavailable original camera setup.",
+  "units": "millimeters",
+  "src_pixels": [[240, 86], [486, 269], [261, 1109], [432, 1000]],
+  "dst_plane_mm": [[25, 70], [-25, 70], [-25, 0], [25, 0]]
+}
